@@ -3,7 +3,7 @@
 <br />
 <div align="center">
   <h1>💇‍♂️ Barbar - Hair Salon Website</h1>
-  <p>A stylish, modern, and responsive hair salon website built with HTML, CSS, and JavaScript.</p>
+  <p>A stylish, modern, and responsive hair salon website built with HTML.</p>
   <img src="Barber%20Shop/assets/images/screenshot.jpg" alt="Barbar Hair Salon Website Screenshot" width="100%"/>
 </div>
 
